@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a03-RyanIII/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a03-RyanIII#readme"
+  "homepage": "https://github.com/comp426-2022-fall/a03-RyanIII#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
 }
