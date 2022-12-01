@@ -11,4 +11,4 @@ const rolls = args.rolls || 1;
 
 //converts teh output of the roll function to json
 var combine = roll(sides, dice, rolls);
-console.log(JSON.stringfy(combine));
+console.log(JSON.stringify(combine));
